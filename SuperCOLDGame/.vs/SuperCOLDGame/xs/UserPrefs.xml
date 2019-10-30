@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C120E9BC-96B7-3A59-FFCD-2566D0E788E6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainCharMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainCharMovement.cs" Line="16" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperCOLDGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainCharMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4131fb33-d914-4eb3-a67f-69ab52265af7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
