@@ -1,7 +1,12 @@
 ﻿<Properties StartupConfiguration="{C120E9BC-96B7-3A59-FFCD-2566D0E788E6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainCharMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyIA.cs">
     <Files>
-      <File FileName="Assets/Scripts/MainCharMovement.cs" Line="16" Column="32" />
+      <File FileName="Assets/Scripts/MainCharMovement.cs" Line="46" Column="45" />
+      <File FileName="Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/SlowMotion.cs" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <File FileName="Assets/Scripts/RestartScript.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/EnemyIA.cs" Line="13" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +14,14 @@
           <Node name="SuperCOLDGame" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="MainCharMovement.cs" selected="True" />
+                <Node name="EnemyIA.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Characters" expanded="True">
+                  <Node name="FirstPersonCharacter" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -19,7 +31,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4131fb33-d914-4eb3-a67f-69ab52265af7" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac49306d-09e9-4eee-a505-c690b281527f" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
