@@ -5,32 +5,20 @@ using UnityEngine.UI;
 public class EnemyIA : MonoBehaviour
 {
 
-    public Transform Player;
-    int MoveSpeed = 7;
-    int MaxDist = 10;
-    int MinDist = 5;
+    Transform player;
+    UnityEngine.AI.NavMeshAgent nav;
 
-    void Start()
+    void Awake()
     {
-
+        // references
+        player = GameObject.FindGameObjectWithTag("Player").transform;
+        nav = GetComponent<UnityEngine.AI.NavMeshAgent>();
     }
+
 
     void Update()
     {
-        transform.LookAt(Player);
-
-        if (Vector3.Distance(transform.position, Player.position) >= MinDist)
-        {
-
-            transform.position += transform.forward * MoveSpeed * Time.deltaTime;
-
-
-
-            if (Vector3.Distance(transform.position, Player.position) <= MaxDist)
-            {
-                //Here Call any function U want Like Shoot at here or something
-            }
-
-        }
+        nav.SetDestination(player.position);
+        transform.LookAt(player);
     }
 }
