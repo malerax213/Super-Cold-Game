@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{C120E9BC-96B7-3A59-FFCD-2566D0E788E6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SlowMotion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NextScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/MainCharMovement.cs" Line="47" Column="39" />
-      <File FileName="Assets/Scripts/Gun.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/SlowMotion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainCharMovement.cs" Line="24" Column="11" />
+      <File FileName="Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/SlowMotion.cs" />
       <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
-      <File FileName="Assets/Scripts/RestartScript.cs" Line="9" Column="6" />
-      <File FileName="Assets/Scripts/EnemyIA.cs" Line="21" Column="45" />
-      <File FileName="Assets/Scripts/BulletScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RestartScript.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/EnemyIA.cs" />
+      <File FileName="Assets/Scripts/BulletScript.cs" />
+      <File FileName="Assets/Scripts/Shoot.cs" />
+      <File FileName="Assets/Scripts/NextScript.cs" Line="10" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,14 +17,7 @@
           <Node name="SuperCOLDGame" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="SlowMotion.cs" selected="True" />
-              </Node>
-              <Node name="Standard Assets" expanded="True">
-                <Node name="Characters" expanded="True">
-                  <Node name="FirstPersonCharacter" expanded="True">
-                    <Node name="Scripts" expanded="True" />
-                  </Node>
-                </Node>
+                <Node name="NextScript.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -33,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f5a5ce93-40f4-442e-8654-465487efd7cc" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6c105ce5-6985-4be4-9548-240519e04c17" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
